@@ -31,14 +31,14 @@ This project analyzes Amazon sales data and presents insights through an interac
 ## 🚀 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/amazon-sales-dashboard.git
+   git clone https://github.com/Sarita882003/Amazon-Sales-Dashboard-Data-Driven-Insights-for-Profit-Optimization
    ```
 2. Open the `Dashboard.pbix` file in Power BI.
 3. Explore the visualized insights.
 
 ## 📢 Contact & Contributions
 - Feel free to fork this repository and enhance the analysis!
-- For any queries or suggestions, reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or email.
+- For any queries or suggestions, reach out via [LinkedIn](https://www.linkedin.com/in/sarita-kumari-034436269/) or email [saritakumari882003@gmail.com].
 
 ---
 
